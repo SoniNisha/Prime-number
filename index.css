@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    font-style: italic;
+    padding: 0px;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(30deg, rgb(253, 99, 99), rgb(255, 242, 65), rgb(112, 112, 255), rgb(128, 128, 128));
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+h2 {
+    padding: 3rem;
+    padding-bottom: 2px;
+}
+
+#result{
+    margin: 0px;
+}
